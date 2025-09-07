@@ -17,3 +17,5 @@ Abaixo, segue um gráfico que mostra as coordenadas X e Y e os respectivos clien
 No código, aparecerá grupo 0 e 1. O grupo 0 são aqueles que estão na coordenada Y e o grupo 1 na coordenada X.
 
 Por ter sido um algoritmo simples, vejo que pode melhorar em bastante coisa, como por exemplo: a maneira que os entregadores fariam essas entregas mais rápidas (o que seria feito dentro da empresa e fora dela para que isso aconteça) e ter mais detalhes das rotas de entrega.
+
+Este trabalho fiz com a ajuda do ChatGPT, embora tenha feito alguns comandos sozinho.
